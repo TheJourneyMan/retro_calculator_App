@@ -49,8 +49,8 @@ class ViewController: UIViewController {
         playSound()
         outputLbl.text = "0"
         rightValStr = ""
-        //runningNumber = ""
-        //leftValStr = ""
+        runningNumber = ""
+        leftValStr = ""
         //result = ""
     }
     
